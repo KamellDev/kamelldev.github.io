@@ -27,23 +27,29 @@ body {
 .right-section {
     grid-column: span 5;
     height: 100%;
+
     background-color: #7e7f8098;
+
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents{
+.left-section-content{
     padding: 2rem 2rem;
 }
 
 .profile {
     width: 100%;
+
     border-bottom: 4px solid #FDB44B;
+
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
+
     border: 8px solid #fdb34be1;
+
 }
 
 .name {
@@ -96,7 +102,9 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
+
     color: #FDB44B;
+
 }
 
 .skills ul {
@@ -104,7 +112,9 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
+
     color: #F1F8FD;
+
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
@@ -116,6 +126,7 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
+
     color: #FDB44B;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -128,6 +139,7 @@ body {
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
 }
+
 
 
 .right-section-contents {
@@ -150,7 +162,9 @@ body {
     padding-bottom: 2rem;
 }
 .about-me-contents {
+
     font-size: 20px;
+
     letter-spacing: 1px;
     line-height: 2rem;
     color: #F1F8FD;
@@ -179,7 +193,9 @@ body {
 .exp-time-period,
 .education-time-period,
 .awards-time-period {
+
     font-size: 19px;
+
     letter-spacing: 1px;
     line-height: 2rem;
 }
@@ -198,10 +214,12 @@ body {
 .exp-desc,
 .education-desc,
 .awards-desc {
+
     font-size: 20px;
     letter-spacing: 1px;
     line-height: 1.5rem;
     border-left: 4px solid #010813;
+
     padding-left: 5px;
 }
 
