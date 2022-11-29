@@ -110,7 +110,6 @@ body {
     display: flex;
     align-items: center;
     text-transform: uppercase;
-    img {display: flex; align-items:center; gap: 10px;}
 }
 
 .referance-name {
